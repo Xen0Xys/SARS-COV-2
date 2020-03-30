@@ -20,7 +20,7 @@ class GUI(Tk):
                 self.update()
                 list_scale_value = self.list_scale.get()
                 if list_scale_value != last_list_scale_value:
-                    self.updateList(list_scale_value - 1)
+                    self.updateList(list_scale_value)
                 last_list_scale_value = list_scale_value
             except TclError as e:
                 break
@@ -43,7 +43,7 @@ class GUI(Tk):
         self.initializeScale(self.country_list)
         self.createList(self.country_list, 0)
     def initializeScale(self, _country_list):
-        self.list_scale = Scale(self, orient='vertical', from_=0, to=len(_country_list), length=345)
+        self.list_scale = Scale(self, orient='vertical', from_=0, to=len(_country_list) - 5, length=345)
         self.list_scale.place(x=-23, y=100)
     def updateList(self, index):
         for c in self.country_list_frame.winfo_children():
@@ -54,6 +54,7 @@ class GUI(Tk):
             canvas = Canvas(self.country_list_frame, width=250, height=50, bg="light grey", highlightthickness=0)
             y = 53 * _index + 3
             canvas.place(x=30, y=y)
+            Label(canvas, text=_country).place(x=0, y=0)
         j = 0
         for i in range(_start_index, _start_index + 6):
             try:
