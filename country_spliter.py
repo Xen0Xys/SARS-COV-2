@@ -1,7 +1,7 @@
-import json
 import os
-import urllib.request
 import io
+import json
+import urllib.request
 
 #File index: GlobalData, PaysData
 #PaysData index: Date, Oays, Infection, Deces, Guerisons, TauxDeces, TauxGuerison, TauxInfection
