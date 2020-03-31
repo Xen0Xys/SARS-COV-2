@@ -104,7 +104,8 @@ class GUI(Tk):
         else:
             createErrorMessage()
     def createCurves(self):
-        select_country = self.getSelectedCountries()
+        selected_country = self.getSelectedCountries()
+        country_data = cs.getSpecifiedCountryData(selected_country)
         plt.plot([1, 2, 3, 4], [1, 4, 9, 16])
         plt.show()
         # No code after
