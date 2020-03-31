@@ -5,12 +5,12 @@
     "GlobalData": [
         {
             "Date": "2020-03-31T00:00:00",
-            "Infection": 786212,
-            "Deces": 37819,
-            "Guerisons": 166041,
-            "TauxDeces": 21.12,
+            "Infection": 787615,
+            "Deces": 37839,
+            "Guerisons": 166276,
+            "TauxDeces": 21.11,
             "TauxGuerison": 0.0,
-            "TauxInfection": 74.07
+            "TauxInfection": 74.08
         },
         {
             "Date": "2020-03-30T00:00:00",
@@ -718,22 +718,22 @@
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "Autriche",
-            "Infection": 9618,
+            "Infection": 9705,
             "Deces": 108,
             "Guerisons": 636,
-            "TauxDeces": 6.61,
+            "TauxDeces": 6.55,
             "TauxGuerison": 0.0,
-            "TauxInfection": 92.26
+            "TauxInfection": 92.33
         },
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "Australie",
-            "Infection": 4516,
+            "Infection": 4550,
             "Deces": 18,
             "Guerisons": 358,
-            "TauxDeces": 7.93,
+            "TauxDeces": 7.87,
             "TauxGuerison": 0.0,
-            "TauxInfection": 91.67
+            "TauxInfection": 91.74
         },
         {
             "Date": "2020-03-31T00:00:00",
@@ -748,12 +748,12 @@
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "Bosnie-Herz\u00e9govine",
-            "Infection": 368,
+            "Infection": 379,
             "Deces": 10,
             "Guerisons": 17,
-            "TauxDeces": 4.62,
+            "TauxDeces": 4.49,
             "TauxGuerison": 0.0,
-            "TauxInfection": 92.66
+            "TauxInfection": 92.88
         },
         {
             "Date": "2020-03-31T00:00:00",
@@ -798,22 +798,22 @@
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "Bulgarie",
-            "Infection": 359,
+            "Infection": 379,
             "Deces": 8,
             "Guerisons": 17,
-            "TauxDeces": 4.74,
+            "TauxDeces": 4.49,
             "TauxGuerison": 0.0,
-            "TauxInfection": 93.04
+            "TauxInfection": 93.4
         },
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "Bahre\u00efn",
-            "Infection": 515,
+            "Infection": 530,
             "Deces": 4,
             "Guerisons": 295,
-            "TauxDeces": 57.28,
+            "TauxDeces": 55.66,
             "TauxGuerison": 0.0,
-            "TauxInfection": 41.94
+            "TauxInfection": 43.58
         },
         {
             "Date": "2020-03-31T00:00:00",
@@ -900,10 +900,10 @@
             "Pays": "B\u00e9larus",
             "Infection": 152,
             "Deces": 0,
-            "Guerisons": 32,
-            "TauxDeces": 21.05,
+            "Guerisons": 47,
+            "TauxDeces": 30.92,
             "TauxGuerison": 0.0,
-            "TauxInfection": 78.95
+            "TauxInfection": 69.08
         },
         {
             "Date": "2020-03-31T00:00:00",
@@ -928,12 +928,12 @@
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "R\u00e9p. D\u00e9m. du Congo",
-            "Infection": 81,
+            "Infection": 98,
             "Deces": 8,
             "Guerisons": 2,
-            "TauxDeces": 2.47,
+            "TauxDeces": 2.04,
             "TauxGuerison": 0.0,
-            "TauxInfection": 87.65
+            "TauxInfection": 89.8
         },
         {
             "Date": "2020-03-31T00:00:00",
@@ -988,20 +988,20 @@
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "Cameroun",
-            "Infection": 139,
+            "Infection": 193,
             "Deces": 6,
             "Guerisons": 5,
-            "TauxDeces": 3.6,
+            "TauxDeces": 2.59,
             "TauxGuerison": 0.0,
-            "TauxInfection": 92.09
+            "TauxInfection": 94.3
         },
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "Chine",
             "Infection": 81519,
             "Deces": 3305,
-            "Guerisons": 76060,
-            "TauxDeces": 93.3,
+            "Guerisons": 76065,
+            "TauxDeces": 93.31,
             "TauxGuerison": 0.0,
             "TauxInfection": 2.64
         },
@@ -1058,22 +1058,22 @@
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "R\u00e9publique Tch\u00e8que",
-            "Infection": 3001,
-            "Deces": 23,
+            "Infection": 3002,
+            "Deces": 24,
             "Guerisons": 25,
             "TauxDeces": 0.83,
             "TauxGuerison": 0.0,
-            "TauxInfection": 98.4
+            "TauxInfection": 98.37
         },
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "Allemagne",
-            "Infection": 66885,
-            "Deces": 645,
+            "Infection": 67051,
+            "Deces": 650,
             "Guerisons": 13500,
-            "TauxDeces": 20.18,
+            "TauxDeces": 20.13,
             "TauxGuerison": 0.0,
-            "TauxInfection": 78.85
+            "TauxInfection": 78.9
         },
         {
             "Date": "2020-03-31T00:00:00",
@@ -1088,12 +1088,12 @@
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "Danemark",
-            "Infection": 2587,
+            "Infection": 2825,
             "Deces": 77,
             "Guerisons": 3,
-            "TauxDeces": 0.12,
+            "TauxDeces": 0.11,
             "TauxGuerison": 0.0,
-            "TauxInfection": 96.91
+            "TauxInfection": 97.17
         },
         {
             "Date": "2020-03-31T00:00:00",
@@ -1188,12 +1188,12 @@
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "Finlande",
-            "Infection": 1352,
+            "Infection": 1384,
             "Deces": 13,
             "Guerisons": 10,
-            "TauxDeces": 0.74,
+            "TauxDeces": 0.72,
             "TauxGuerison": 0.0,
-            "TauxInfection": 98.3
+            "TauxInfection": 98.34
         },
         {
             "Date": "2020-03-31T00:00:00",
@@ -1208,12 +1208,12 @@
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "\u00celes F\u00e9ro\u00e9",
-            "Infection": 168,
+            "Infection": 169,
             "Deces": 0,
-            "Guerisons": 70,
-            "TauxDeces": 41.67,
+            "Guerisons": 74,
+            "TauxDeces": 43.79,
             "TauxGuerison": 0.0,
-            "TauxInfection": 58.33
+            "TauxInfection": 56.21
         },
         {
             "Date": "2020-03-31T00:00:00",
@@ -1228,18 +1228,18 @@
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "Gabon",
-            "Infection": 7,
+            "Infection": 16,
             "Deces": 1,
             "Guerisons": 0,
             "TauxDeces": 0.0,
             "TauxGuerison": 0.0,
-            "TauxInfection": 85.71
+            "TauxInfection": 93.75
         },
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "Royaume-Uni",
             "Infection": 22385,
-            "Deces": 1411,
+            "Deces": 1412,
             "Guerisons": 137,
             "TauxDeces": 0.61,
             "TauxGuerison": 0.0,
@@ -1258,12 +1258,12 @@
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "G\u00e9orgie",
-            "Infection": 103,
+            "Infection": 108,
             "Deces": 0,
-            "Guerisons": 20,
-            "TauxDeces": 19.42,
+            "Guerisons": 21,
+            "TauxDeces": 19.44,
             "TauxGuerison": 0.0,
-            "TauxInfection": 80.58
+            "TauxInfection": 80.56
         },
         {
             "Date": "2020-03-31T00:00:00",
@@ -1418,12 +1418,12 @@
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "Hongrie",
-            "Infection": 447,
-            "Deces": 15,
-            "Guerisons": 34,
-            "TauxDeces": 7.61,
+            "Infection": 492,
+            "Deces": 16,
+            "Guerisons": 37,
+            "TauxDeces": 7.52,
             "TauxGuerison": 0.0,
-            "TauxInfection": 89.04
+            "TauxInfection": 89.23
         },
         {
             "Date": "2020-03-31T00:00:00",
@@ -1448,12 +1448,12 @@
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "Isra\u00ebl",
-            "Infection": 4695,
-            "Deces": 16,
-            "Guerisons": 161,
-            "TauxDeces": 3.43,
+            "Infection": 4831,
+            "Deces": 18,
+            "Guerisons": 163,
+            "TauxDeces": 3.37,
             "TauxGuerison": 0.0,
-            "TauxInfection": 96.23
+            "TauxInfection": 96.25
         },
         {
             "Date": "2020-03-31T00:00:00",
@@ -1548,12 +1548,12 @@
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "Kirghizistan",
-            "Infection": 94,
+            "Infection": 107,
             "Deces": 0,
             "Guerisons": 3,
-            "TauxDeces": 3.19,
+            "TauxDeces": 2.8,
             "TauxGuerison": 0.0,
-            "TauxInfection": 96.81
+            "TauxInfection": 97.2
         },
         {
             "Date": "2020-03-31T00:00:00",
@@ -1599,11 +1599,11 @@
             "Date": "2020-03-31T00:00:00",
             "Pays": "Kazakhstan",
             "Infection": 325,
-            "Deces": 1,
-            "Guerisons": 21,
-            "TauxDeces": 6.46,
+            "Deces": 2,
+            "Guerisons": 22,
+            "TauxDeces": 6.77,
             "TauxGuerison": 0.0,
-            "TauxInfection": 93.23
+            "TauxInfection": 92.62
         },
         {
             "Date": "2020-03-31T00:00:00",
@@ -1638,7 +1638,7 @@
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "Liechtenstein",
-            "Infection": 62,
+            "Infection": 64,
             "Deces": 0,
             "Guerisons": 0,
             "TauxDeces": 0.0,
@@ -1650,10 +1650,10 @@
             "Pays": "Sri Lanka",
             "Infection": 122,
             "Deces": 2,
-            "Guerisons": 15,
-            "TauxDeces": 12.3,
+            "Guerisons": 16,
+            "TauxDeces": 13.11,
             "TauxGuerison": 0.0,
-            "TauxInfection": 86.07
+            "TauxInfection": 85.25
         },
         {
             "Date": "2020-03-31T00:00:00",
@@ -1668,32 +1668,32 @@
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "Lituanie",
-            "Infection": 491,
+            "Infection": 533,
             "Deces": 7,
             "Guerisons": 7,
-            "TauxDeces": 1.43,
+            "TauxDeces": 1.31,
             "TauxGuerison": 0.0,
-            "TauxInfection": 97.15
+            "TauxInfection": 97.37
         },
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "Luxembourg",
             "Infection": 1988,
             "Deces": 22,
-            "Guerisons": 40,
-            "TauxDeces": 2.01,
+            "Guerisons": 80,
+            "TauxDeces": 4.02,
             "TauxGuerison": 0.0,
-            "TauxInfection": 96.88
+            "TauxInfection": 94.87
         },
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "Lettonie",
-            "Infection": 376,
+            "Infection": 398,
             "Deces": 0,
             "Guerisons": 1,
-            "TauxDeces": 0.27,
+            "TauxDeces": 0.25,
             "TauxGuerison": 0.0,
-            "TauxInfection": 99.73
+            "TauxInfection": 99.75
         },
         {
             "Date": "2020-03-31T00:00:00",
@@ -1708,12 +1708,12 @@
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "Maroc",
-            "Infection": 556,
+            "Infection": 574,
             "Deces": 33,
             "Guerisons": 15,
-            "TauxDeces": 2.7,
+            "TauxDeces": 2.61,
             "TauxGuerison": 0.0,
-            "TauxInfection": 91.37
+            "TauxInfection": 91.64
         },
         {
             "Date": "2020-03-31T00:00:00",
@@ -1738,12 +1738,12 @@
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "Montenegro",
-            "Infection": 91,
+            "Infection": 105,
             "Deces": 1,
             "Guerisons": 0,
             "TauxDeces": 0.0,
             "TauxGuerison": 0.0,
-            "TauxInfection": 98.9
+            "TauxInfection": 99.05
         },
         {
             "Date": "2020-03-31T00:00:00",
@@ -1758,7 +1758,7 @@
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "Madagascar",
-            "Infection": 43,
+            "Infection": 46,
             "Deces": 0,
             "Guerisons": 0,
             "TauxDeces": 0.0,
@@ -1838,22 +1838,22 @@
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "Maurice",
-            "Infection": 128,
+            "Infection": 143,
             "Deces": 3,
             "Guerisons": 0,
             "TauxDeces": 0.0,
             "TauxGuerison": 0.0,
-            "TauxInfection": 97.66
+            "TauxInfection": 97.9
         },
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "Maldives",
-            "Infection": 17,
+            "Infection": 18,
             "Deces": 0,
             "Guerisons": 13,
-            "TauxDeces": 76.47,
+            "TauxDeces": 72.22,
             "TauxGuerison": 0.0,
-            "TauxInfection": 23.53
+            "TauxInfection": 27.78
         },
         {
             "Date": "2020-03-31T00:00:00",
@@ -1948,7 +1948,7 @@
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "Norv\u00e8ge",
-            "Infection": 4462,
+            "Infection": 4465,
             "Deces": 32,
             "Guerisons": 12,
             "TauxDeces": 0.27,
@@ -2038,22 +2038,22 @@
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "Pakistan",
-            "Infection": 1717,
-            "Deces": 21,
+            "Infection": 1865,
+            "Deces": 25,
             "Guerisons": 76,
-            "TauxDeces": 4.43,
+            "TauxDeces": 4.08,
             "TauxGuerison": 0.0,
-            "TauxInfection": 94.35
+            "TauxInfection": 94.58
         },
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "Pologne",
-            "Infection": 2055,
+            "Infection": 2132,
             "Deces": 31,
             "Guerisons": 7,
-            "TauxDeces": 0.34,
+            "TauxDeces": 0.33,
             "TauxGuerison": 0.0,
-            "TauxInfection": 98.15
+            "TauxInfection": 98.22
         },
         {
             "Date": "2020-03-31T00:00:00",
@@ -2109,11 +2109,11 @@
             "Date": "2020-03-31T00:00:00",
             "Pays": "Roumanie",
             "Infection": 2109,
-            "Deces": 65,
+            "Deces": 68,
             "Guerisons": 209,
             "TauxDeces": 9.91,
             "TauxGuerison": 0.0,
-            "TauxInfection": 87.01
+            "TauxInfection": 86.87
         },
         {
             "Date": "2020-03-31T00:00:00",
@@ -2230,10 +2230,10 @@
             "Pays": "S\u00e9n\u00e9gal",
             "Infection": 162,
             "Deces": 0,
-            "Guerisons": 27,
-            "TauxDeces": 16.67,
+            "Guerisons": 28,
+            "TauxDeces": 17.28,
             "TauxGuerison": 0.0,
-            "TauxInfection": 83.33
+            "TauxInfection": 82.72
         },
         {
             "Date": "2020-03-31T00:00:00",
@@ -2288,7 +2288,7 @@
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "Tchad",
-            "Infection": 5,
+            "Infection": 7,
             "Deces": 0,
             "Guerisons": 0,
             "TauxDeces": 0.0,
@@ -2308,12 +2308,12 @@
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "Tha\u00eflande",
-            "Infection": 1524,
-            "Deces": 9,
-            "Guerisons": 229,
-            "TauxDeces": 15.03,
+            "Infection": 1651,
+            "Deces": 10,
+            "Guerisons": 342,
+            "TauxDeces": 20.71,
             "TauxGuerison": 0.0,
-            "TauxInfection": 84.38
+            "TauxInfection": 78.68
         },
         {
             "Date": "2020-03-31T00:00:00",
@@ -2358,27 +2358,27 @@
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "Ta\u00efwan",
-            "Infection": 306,
+            "Infection": 322,
             "Deces": 5,
             "Guerisons": 39,
-            "TauxDeces": 12.75,
+            "TauxDeces": 12.11,
             "TauxGuerison": 0.0,
-            "TauxInfection": 85.62
+            "TauxInfection": 86.34
         },
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "Tanzanie",
             "Infection": 19,
-            "Deces": 0,
+            "Deces": 1,
             "Guerisons": 1,
             "TauxDeces": 5.26,
             "TauxGuerison": 0.0,
-            "TauxInfection": 94.74
+            "TauxInfection": 89.47
         },
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "Ukraine",
-            "Infection": 548,
+            "Infection": 549,
             "Deces": 13,
             "Guerisons": 8,
             "TauxDeces": 1.46,
@@ -2398,12 +2398,12 @@
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "\u00c9tats-Unis",
-            "Infection": 164603,
+            "Infection": 164610,
             "Deces": 3170,
-            "Guerisons": 5896,
-            "TauxDeces": 3.58,
+            "Guerisons": 5945,
+            "TauxDeces": 3.61,
             "TauxGuerison": 0.0,
-            "TauxInfection": 94.49
+            "TauxInfection": 94.46
         },
         {
             "Date": "2020-03-31T00:00:00",
@@ -2418,12 +2418,12 @@
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "Ouzb\u00e9kistan",
-            "Infection": 150,
+            "Infection": 158,
             "Deces": 2,
             "Guerisons": 7,
-            "TauxDeces": 4.67,
+            "TauxDeces": 4.43,
             "TauxGuerison": 0.0,
-            "TauxInfection": 94.0
+            "TauxInfection": 94.3
         },
         {
             "Date": "2020-03-31T00:00:00",
@@ -2468,12 +2468,12 @@
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "Kosovo",
-            "Infection": 94,
+            "Infection": 106,
             "Deces": 1,
             "Guerisons": 1,
-            "TauxDeces": 1.06,
+            "TauxDeces": 0.94,
             "TauxGuerison": 0.0,
-            "TauxInfection": 97.87
+            "TauxInfection": 98.11
         },
         {
             "Date": "2020-03-31T00:00:00",
@@ -2508,12 +2508,12 @@
         {
             "Date": "2020-03-31T00:00:00",
             "Pays": "Zimbabwe",
-            "Infection": 7,
+            "Infection": 8,
             "Deces": 1,
             "Guerisons": 0,
             "TauxDeces": 0.0,
             "TauxGuerison": 0.0,
-            "TauxInfection": 85.71
+            "TauxInfection": 87.5
         },
         {
             "Date": "2020-03-31T00:00:00",

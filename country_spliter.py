@@ -93,6 +93,7 @@ def getCountryList():
         if data_dict["Pays"] not in country_list:
             country_list.append(data_dict["Pays"])
     country_list.sort()
+    country_list.insert(0, "Global")
     return country_list
 
 STATUS = getDataFile() # Status download code: 0 = OK; 1 = Download error; 2 = Copy error
