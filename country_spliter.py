@@ -22,7 +22,7 @@ def getDataFile():
     url = 'https://www.data.gouv.fr/fr/datasets/r/a7596877-d7c3-4da6-99c1-2f52d418e881'
     print("[INFORMATION]: Downloading 'all_data.json' file.")
     try:
-        raise urllib.request.URLError("") #Line use to speed up launch time code or simulate no-wifi launch
+        #raise urllib.request.URLError("") #Line use to speed up launch time code or simulate no-wifi launch
         urllib.request.urlretrieve(url, 'all_data.json')
         print("[INFORMATION]: Formatting 'all_data.json' file.")
         with io.open("all_data.json", "r", encoding="utf-8") as file:
@@ -97,7 +97,6 @@ def getCountryList():
 
 STATUS = getDataFile() # Status download code: 0 = OK; 1 = Download error; 2 = Copy error
 if __name__ == "__main__":
-    country_list = ["France", "Italie", "Global", "Espagne"]
+    country_list = ["France", "Italie", "Global", "Espagne", "Sri Lanka"]
     result = getSpecifiedCountryData(country_list)
     SaveDataAsFile(result)
-    print(getCountryList())
